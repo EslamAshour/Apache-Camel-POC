@@ -1,0 +1,14 @@
+<items>
+			<item>
+				<Brand>Saffola</Brand>
+				<Type>Gold</Type>
+				<Quantity>2</Quantity>
+				<Price>649</Price>
+			</item>
+			<item>
+				<Brand>Fortune</Brand>
+				<Type>Sunlite</Type>
+				<Quantity>1</Quantity>
+				<Price>525</Price>
+			</item>
+		</items>
